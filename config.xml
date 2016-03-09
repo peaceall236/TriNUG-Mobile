@@ -14,7 +14,7 @@
 		email="justin.saraceno@gmail.com">
         Justin Saraceno
     </author>
-    <preference value="2.0.0" name="phonegap-version"/>
+    <preference value="3.5.0" name="phonegap-version"/>
 
     <!-- icons -->
     <icon src="icon_057.png" gap:role="default" />
